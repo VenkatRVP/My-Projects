@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=plus5
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ plus5\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=plus5()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ movePlus5()
+comment4.params=
+comment4.target=void\ removefromWorld()
+numComments=5
